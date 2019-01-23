@@ -1,0 +1,16 @@
+body{
+	background: url(/home/ashwini/Documents/bg.jpg);
+	background-size:100%;
+}
+link, h1{
+	text-align: center;
+	color:olivedrab;
+	background-color:darkgray
+}
+p{
+	color:red;
+}
+
+div{
+	background-color:gainsboro;
+}
